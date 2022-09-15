@@ -21,7 +21,7 @@ import webbrowser
 import errno
 import random
 
-# Adding description to app.py
+# Adding new description to app.py
 try:
     from urllib.parse import urljoin
     from urllib.request import pathname2url
